@@ -1,5 +1,7 @@
 # Information Retrieval System
 
+> 한국항공대학교 2023-2 데이터베이스 입문 JDBC 팀 프로젝트 과제 (9주차)
+
 ## Overview
 
 This Employee Management System, developed for the 'Introduction to Database' course at KAU in 2023, enables efficient employee data management through a user-friendly interface.
@@ -92,4 +94,3 @@ The system informs users about various situations through different types of win
 - [@남서아](https://github.com/Wendy-Nam)
 - [@허진혁](https://github.com/jinhyeok0117)
 - [@안희수](heesuya617@gmail.com)
-
