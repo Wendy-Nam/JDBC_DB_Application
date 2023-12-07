@@ -14,7 +14,7 @@ To understand more about how to use this system, please watch the following vide
 
 [![Demo Video](https://github.com/Wendy-Nam/JDBC_DB_Application/blob/main/images/thumbnail.png)](http://www.youtube.com/watch?v=MUagyuR_w_A "Information Retrieval System")
 
-The system is organized into four main navigation bars: Main screen, Database viewing/search, Add new employee, and Delete/Update employee data.
+The system is organized into four main navigation bars: `Main screen`, `Database viewing/search`, `Add new employee`, and `Delete/Update employee data`.
 
 ## Course Project Information
 
