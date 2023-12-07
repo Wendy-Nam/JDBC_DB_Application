@@ -1,5 +1,19 @@
 # Information Retrieval System
 
+## Overview
+
+This Employee Management System, developed for the 'Introduction to Database' course at KAU in 2023, enables efficient employee data management through a user-friendly interface.
+
+### Demo Video
+
+To understand more about how to use this system, please watch the following video
+
+⬇️ click the thumbnail to watch video
+
+[![Demo Video](https://github.com/Wendy-Nam/JDBC_DB_Application/blob/main/images/thumbnail.png)](http://www.youtube.com/watch?v=MUagyuR_w_A "Information Retrieval System")
+
+The system is organized into four main navigation bars: Main screen, Database viewing/search, Add new employee, and Delete/Update employee data.
+
 ## Course Project Information
 
 - **Project Title:** JDBC Term Project
@@ -7,17 +21,11 @@
 - **Institution:** Korea Aerospace University (KAU)
 - **Year:** 2023
 
-## Overview
-
-This Employee Management System, developed for the 'Introduction to Database' course at KAU in 2023, enables efficient employee data management through a user-friendly interface.
-
 ### Development Environment and Technologies
 
 - **Programming Language:** Java
 - **Database Management:** MySQL with JDBC (Java Database Connectivity)
 - **GUI Design:** Java Swing Designer (Window Builder)
-
-The system is organized into four main navigation bars: Main screen, Database viewing/search, Add new employee, and Delete/Update employee data.
 
 ### Setting Up Database Connection
 
@@ -78,12 +86,3 @@ The system informs users about various situations through different types of win
 3. **Database Connection Error:** Displayed when there is a failure in connecting to the database, possibly due to incorrect credentials or server issues.
 
 4. **Unspecified Behavior Error:** Used for situations not covered by other errors, like attempting updates without necessary data (e.g., missing employee's SSN).
-
-
-### Demo Video
-
-To understand more about how to use this system, please watch the following video:
-
-⬇️ click the thumbnail to watch video
-
-[![Demo Video](https://github.com/Wendy-Nam/JDBC_DB_Application/images/thumbnail.png)](http://www.youtube.com/watch?v=MUagyuR_w_A "Information Retrieval System")
