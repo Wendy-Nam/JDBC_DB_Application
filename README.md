@@ -25,7 +25,7 @@ The system is organized into four main navigation bars: Main screen, Database vi
 
 - **Programming Language:** Java
 - **Database Management:** MySQL with JDBC (Java Database Connectivity)
-- **GUI Design:** Java Swing Designer (Window Builder)
+- **GUI Design:** Eclipse Java Swing Designer (Window Builder) & Figma
 
 ### Setting Up Database Connection
 
