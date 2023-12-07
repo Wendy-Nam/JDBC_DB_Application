@@ -10,13 +10,14 @@
 
 사용자 친화적인 인터페이스를 통해 효율적인 직원 데이터 관리를 가능하도록 함
 
+시스템은 `안내 화면(Overview)`, `데이터베이스 조회/검색`, `새 직원 추가`, `직원 데이터 삭제/업데이트`의 네 가지 주요 네비게이션 바로 구성
+
 ### Demo 영상
 
 ⬇️ 썸네일을 클릭하여 비디오 시청
 
 [![Demo 영상](https://github.com/Wendy-Nam/JDBC_DB_Application/blob/main/images/thumbnail.png)](http://www.youtube.com/watch?v=MUagyuR_w_A "정보 검색 시스템")
 
-시스템은 `안내 화면(Overview)`, `데이터베이스 조회/검색`, `새 직원 추가`, `직원 데이터 삭제/업데이트`의 네 가지 주요 네비게이션 바로 구성
 
 ## 과제 프로젝트 정보
 
