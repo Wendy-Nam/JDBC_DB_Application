@@ -86,3 +86,10 @@ The system informs users about various situations through different types of win
 3. **Database Connection Error:** Displayed when there is a failure in connecting to the database, possibly due to incorrect credentials or server issues.
 
 4. **Unspecified Behavior Error:** Used for situations not covered by other errors, like attempting updates without necessary data (e.g., missing employee's SSN).
+
+## Team Members
+
+- [@남서아](https://github.com/Wendy-Nam)
+- [@허진혁](https://github.com/jinhyeok0117)
+- [@안희수](heesuya617@gmail.com)
+
