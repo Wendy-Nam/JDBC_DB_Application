@@ -93,4 +93,4 @@ The system informs users about various situations through different types of win
 
 - [@남서아](https://github.com/Wendy-Nam)
 - [@허진혁](https://github.com/jinhyeok0117)
-- [@안희수](heesuya617@gmail.com)
+- [@안희수](https://github.com/HeesuAhn0)
